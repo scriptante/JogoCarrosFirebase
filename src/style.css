@@ -1,0 +1,11 @@
+img {
+  max-width: 100%;
+}
+
+.fas {
+  cursor: pointer;
+}
+
+.onDestaque {
+  background-color: yellow;
+}
